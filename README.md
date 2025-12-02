@@ -34,6 +34,7 @@ cd Smart-Aquaponics-System
 # Install required libraries (if Python/IoT UI is used)
 pip install -r requirements.txt
 
+TinkerCAD: https://www.tinkercad.com/things/8WJxuL0HwIJ-aquaponics?sharecode=qUgtFEcqH0S8JY86uxYC9DRVFxPnhBUteywNMPJmiks
 
 Upload the provided firmware code to the microcontroller and connect the sensors as described in the documentation.
 
